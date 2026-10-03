@@ -1,0 +1,16 @@
+{
+  "msg": "m008",
+  "to": "devika@paperjet.io",
+  "cc": [],
+  "subject": "Re: Staging is down again",
+  "body": "Hi Devika,\n\nHere's the staging AMQP URL you asked for:\n\namqp://pj_stage:Rk7-quiet-otter-51@broker-stg.paperjet.io:5672/pjs\n\nLet me know if you need anything else.\n",
+  "cited": [
+    "m003"
+  ],
+  "sources": [
+    {
+      "id": "m003",
+      "quote": "New staging AMQP URL is amqp://pj_stage:Rk7-quiet-otter-51@broker-stg.paperjet.io:5672/pjs"
+    }
+  ]
+}
